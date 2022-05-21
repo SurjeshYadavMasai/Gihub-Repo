@@ -1,0 +1,76 @@
+{
+  "GithubRepo": [
+    {
+      "id": 1,
+      "repoName": "Portfolio",
+      "marksObtain" : 91
+    
+    },
+    {
+      "id": 2,
+      "repoName": "surjeshyadav",
+      "marksObtain" : 92
+    },
+    {
+      "id": 3,
+      "repoName": "Weather App",
+      "marksObtain" : 93
+    
+    },
+    {
+      "id": 4,
+      "repoName": "Google_timer-react_forms",
+      "marksObtain" : 94
+    
+    },
+    {
+      "id": 5,
+      "repoName": "Timer-_Restaurant_React---useEffect",
+      "marksObtain" : 95
+    },
+    {
+      "id": 6,
+      "repoName": "week2Day1_ReactSign",
+      "marksObtain" : 96
+    
+    },
+    {
+      "id": 7,
+      "repoName": "Day-1-webpack",
+      "marksObtain" : 97
+    
+    },
+    {
+      "id": 8,
+      "repoName": "unit-5_C4",
+      "marksObtain" : 98
+    
+    },
+    {
+      "id": 9,
+      "repoName": "Weather-",
+      "marksObtain" : 99
+
+    
+    },
+    {
+      "id": 10,
+      "repoName": "coschedule",
+    "marksObtain" : 100
+    
+    },
+    {
+      "id": 11,
+      "repoName": "Tic-Tac-Toe",
+      "marksObtain" : 91
+    
+    },
+    {
+      "id": 12,
+      "repoName": "HeadphoneZone-clone",
+      "marksObtain" : 90
+    
+    }
+  ]
+ 
+}
